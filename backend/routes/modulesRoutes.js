@@ -4,7 +4,7 @@ const router = express.Router();
 const logger = require("../config/logger").logger;
 const https = require("https");
 const moduleUrl =
-  "https://raw.githubusercontent.com/jasp-stats-modules/jasp-modules/refs/heads/main/.gitmodules";
+  "https://raw.githubusercontent.com/jasp-stats-modules/modules-registry/refs/heads/main/.gitmodules";
 
 function getModuleUrls(url) {
   return new Promise((resolve, reject) => {
