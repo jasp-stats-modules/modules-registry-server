@@ -1,3 +1,4 @@
+> [!CAUTION]
 > The [JASP module library](https://github.com/jasp-stats-modules/modules-app) is hosted using GitHub pages at https://module-library.jasp-stats.org/ no need for server anymore.
 
 # jasp-registry
