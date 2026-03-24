@@ -1,3 +1,5 @@
+> The [JASP module library](https://github.com/jasp-stats-modules/modules-app) is hosted using GitHub pages at https://module-library.jasp-stats.org/ no need for server anymore.
+
 # jasp-registry
 
 This repository contains the JASP registry server, which serves JASP modules that are available for download.
